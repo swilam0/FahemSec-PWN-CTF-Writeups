@@ -2,16 +2,6 @@
 
 > A collection of writeups for the **FahemSec Pwn CTF**, documenting my journey of learning Binary Exploitation from scratch through AI-assisted research, reverse engineering, and hands-on practice.
 
-<p align="center">
-
-![GitHub](https://img.shields.io/badge/Category-Pwn-blue)
-![Platform](https://img.shields.io/badge/Platform-Linux-success)
-![Language](https://img.shields.io/badge/Language-C%20%7C%20Assembly%20%7C%20Python-orange)
-![Writeups](https://img.shields.io/badge/Writeups-4-success)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
-</p>
-
 ---
 
 # 🏆 Competition Result
