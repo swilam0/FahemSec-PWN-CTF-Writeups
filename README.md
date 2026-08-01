@@ -34,16 +34,7 @@ The goal is not only to publish solutions, but to explain the reasoning behind e
 
 ---
 
-# 📂 Writeups
 
-| Challenge          | Main Technique                          | Difficulty | Status |                     Writeup                     |
-| ------------------ | --------------------------------------- | :--------: | :----: | :---------------------------------------------: |
-| Signal Relay       | Jump-Oriented Programming (JOP)         |   Medium   |    ✅   |      [Writeup](./Signal%20Relay/README.md)      |
-| Talk to the Daemon | Linux IPC / Binary Exploitation         |   Medium   |    ✅   | [Writeup](./Talk%20to%20the%20Daemon/README.md) |
-| The Scanner        | Binary Exploitation                     |   Medium   |    ✅   |       [Writeup](./The%20Scanner/README.md)      |
-| Overflow the IPC   | Stack Buffer Overflow + Shellcode + IPC |   Medium   |    ✅   |   [Writeup](./Overflow%20the%20IPC/README.md)   |
-
----
 
 # 🤖 AI Transparency
 
@@ -64,6 +55,17 @@ AI was extensively used throughout the competition as a learning partner to:
 Every writeup was rewritten after understanding the challenge and reviewing the exploitation process.
 
 The purpose of this repository is **education and documentation**, not to claim previous expertise in Binary Exploitation.
+
+---
+
+# 📂 Writeups
+
+| Challenge          | Main Technique                          | Difficulty | Status |                     Writeup                     |
+| ------------------ | --------------------------------------- | :--------: | :----: | :---------------------------------------------: |
+| Signal Relay       | Jump-Oriented Programming (JOP)         |   Medium   |    ✅   |      [Writeup](./Signal%20Relay/README.md)      |
+| Talk to the Daemon | Linux IPC / Binary Exploitation         |   Medium   |    ✅   | [Writeup](./Talk%20to%20the%20Daemon/README.md) |
+| The Scanner        | Binary Exploitation                     |   Medium   |    ✅   |       [Writeup](./The%20Scanner/README.md)      |
+| Overflow the IPC   | Stack Buffer Overflow + Shellcode + IPC |   Medium   |    ✅   |   [Writeup](./Overflow%20the%20IPC/README.md)   |
 
 ---
 
