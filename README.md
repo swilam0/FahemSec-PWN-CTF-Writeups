@@ -111,24 +111,16 @@ FahemSec-PWN-CTF
 ├── README.md
 │
 ├── Signal Relay
-│   ├── README.md
-│   ├── exploit.py
-│   └── images/
+│   └── README.md
 │
 ├── Talk to the Daemon
-│   ├── README.md
-│   ├── exploit.py
-│   └── images/
+│   └── README.md
 │
 ├── The Scanner
-│   ├── README.md
-│   ├── exploit.py
-│   └── images/
+│   └── README.md
 │
 ├── Overflow the IPC
-│   ├── README.md
-│   ├── exploit.py
-│   └── images/
+│   └── README.md
 │
 └── assets
     └── leaderboard.png
