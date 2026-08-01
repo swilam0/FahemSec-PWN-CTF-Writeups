@@ -17,7 +17,7 @@
 # 🏆 Competition Result
 
 <p align="center">
-  <img src="leaderboard.png" alt="Leaderboard" width="900">
+  <img src="./assets/leaderboard.png" alt="Leaderboard" width="900">
 </p>
 
 <p align="center">
